@@ -1,0 +1,59 @@
+.nav {
+  background: #81C784;
+}
+
+.nav-item {
+  padding: 7px;
+}
+
+.nav-item:hover, .active {
+  background: #00E5FF;
+}
+
+.nav-link, .nav-link:hover {
+  
+  color: #0D47A1;
+  font: bold 18px sans-serif;
+}
+.food-block {
+  background-image: url("https://im0-tub-ua.yandex.net/i?id=d8a519797259a4dfcca9c7179faaed8e&n=13");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 300px;
+}
+.section { 
+background-color: black; 
+}
+.zagolovok3 {
+  font-size: 20px;
+  color: #FF8C00;
+  margin-left: 10px; 
+
+}
+.zagolovok {
+  text-align: center;
+  font-size: 35px; 
+  color: #800080;
+}
+.zagolovok2 {
+  font-size: 20px;
+  color: red;
+}
+
+.images {
+  width: 100%;
+  height: 80%;
+}
+.col-md-3 {
+	margin-top: 50px;
+}
+
+#bottom {
+    background: #232323;
+    color: #6f6f6f;
+    margin-top: 100px;
+}
+p {
+	color: #FF1493;
+}

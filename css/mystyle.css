@@ -1,0 +1,59 @@
+.nav {
+  background: #81C784;
+}
+
+.nav-item {
+  padding: 7px;
+}
+
+.nav-item:hover, .active {
+  background: #00E5FF;
+}
+
+.nav-link, .nav-link:hover {
+  
+  color: #0D47A1;
+  font: bold 18px sans-serif;
+}
+
+/* Section */
+
+.food-block {
+  background-image: url("https://www.chedilusticabay.com/images/content/ChediLusticaBayCookingClass.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.section { 
+background-color: black; 
+}
+.zagolovok {
+  text-align: center;
+  font-size: 35px; 
+  color: red;
+  padding-top: 40px;
+}
+.zagolovok3 {
+  font-size: 20px;
+  color: #FF8C00;
+  margin-left: 10px; 
+
+}
+.zagolovok2 {
+  font-size: 20px;
+  color: red;
+}
+.zagolovok2 a {
+  text-decoration: none;
+}
+.images {
+  width: 100%;
+  height: 80%;
+}
+
+#bottom {
+    background: #232323;
+    color: #6f6f6f;
+    margin-top: 10px;
+}
+
